@@ -13,7 +13,7 @@
  <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 </div>
 
-![https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515)
+![https://github-readme-stats.vercel.app/api?username=pappuraj&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=pappuraj&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515)
 
 
 <a href="https://www.linkedin.com/in/PAPPURAJ/"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png"/></a>
