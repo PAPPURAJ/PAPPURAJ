@@ -1,16 +1,25 @@
 ### Hi there 👋
+### I am Pappuraj Bhottacharjee
 
-<!--
-**PAPPURAJ/PAPPURAJ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Expert in
 
-Here are some ideas to get you started:
+<div style="display:flex;">
+<img src="https://img.icons8.com/nolan/64/php.png"/>
+<img src="https://img.icons8.com/ios-filled/64/4a90e2/react-native.png"/>
+<img src="https://img.icons8.com/color/64/4a90e2/java-coffee-cup-logo--v1.png"/>
+ <img src="https://img.icons8.com/color/64/4a90e2/python--v1.png"/>
+<img src="https://img.icons8.com/color/64/4a90e2/nodejs.png"/>
+ <img src="https://img.icons8.com/windows/64/000000/vuejs.png"/>
+ <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
+</div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515](https://github-readme-stats.vercel.app/api?username=nondukishor&&show_icons=true&title_color=ffffff&icon_color=a4c639&text_color=daf7dc&bg_color=151515)
+
+<a href="https://www.linkedin.com/in/PAPPURAJ/"><img src="https://img.icons8.com/nolan/64/linkedin-circled.png"/></a>
+<a href="https://www.facebook.com/PAPPURAJ.DUET/"><img src="https://img.icons8.com/nolan/64/facebook.png"/></a>
+<a href="https://twitter.com/PAPPURAJ.DUET"><img src="https://img.icons8.com/nolan/64/twitter.png"/></a>
+<a href="https://www.instagram.com/PAPPURAJ/"><img src="https://img.icons8.com/nolan/64/instagram-new.png"/></a>
+
+
+
+
