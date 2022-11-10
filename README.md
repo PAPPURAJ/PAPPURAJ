@@ -9,8 +9,6 @@
 <img src="https://img.icons8.com/ios-filled/64/4a90e2/react-native.png"/>
 <img src="https://img.icons8.com/color/64/4a90e2/java-coffee-cup-logo--v1.png"/>
  <img src="https://img.icons8.com/color/64/4a90e2/python--v1.png"/>
-<img src="https://img.icons8.com/color/64/4a90e2/nodejs.png"/>
- <img src="https://img.icons8.com/windows/64/000000/vuejs.png"/>
  <img src="https://img.icons8.com/nolan/64/angularjs.png"/>
 </div>
 
