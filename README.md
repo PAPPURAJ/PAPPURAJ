@@ -9,11 +9,11 @@
 
 - 🌱 I’m currently learning **Java Spring Boot**
 
-- 👨‍💻 All of my projects are available at [pappuraj.github.io](pappuraj.github.io)
+- 👨‍💻 All of my projects are available at [pappuraj.com](pappuraj.com)
 
 - 💬 Ask me about **Spring Boot, Arduino, IoT, Android (Native), Flutter**
 
-- 📫 How to reach me **pappuraj.duet@gmail.com**
+- 📫 How to reach me **pappuraj.duet@gmail.com**, **info@pappuraj.com**, 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
