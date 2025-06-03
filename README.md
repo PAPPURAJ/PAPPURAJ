@@ -1,37 +1,158 @@
-<h1 align="center">Hi 👋, I'm Pappuraj Bhottacharjee</h1>
-<h3 align="center">A passionate backend developer</h3>
+<div align="center">
+  <h1> # Hi there, I'm Pappuraj Bhottacharjee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+</div>    
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=pappuraj&label=Profile%20views&color=0e75b6&style=flat" alt="pappuraj" /> </p>
+---
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=pappuraj" alt="pappuraj" /></a> </p>
+![Github Streak](./dist/github-contribution-grid-snake.svg)
 
-<p align="left"> <a href="https://twitter.com/pappuraj.duet" target="blank"><img src="https://img.shields.io/twitter/follow/pappuraj.duet?logo=twitter&style=for-the-badge" alt="pappuraj.duet" /></a> </p>
+---
 
-- 🌱 I’m currently learning **Java Spring Boot**
+## 🚀 About Me
 
-- 👨‍💻 All of my projects are available at [pappuraj.com](pappuraj.com)
+I'm a **Software Engineer** with a passion for backend development, IoT systems, and scalable cloud-native applications. With experience in **Spring Boot**, **Java**, **Flutter**, and **React**, I specialize in designing APIs, integrating cloud services, and building reliable enterprise solutions. 
 
-- 💬 Ask me about **Spring Boot, Arduino, IoT, Android (Native), Flutter**
+Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technical users, and working on financial applications like **Loan Back**. I love solving problems, building smart solutions, and continuously learning.
 
-- 📫 How to reach me **pappuraj.duet@gmail.com**, **info@pappuraj.com**, 
+---
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/pappuraj.duet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="pappuraj.duet" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/pappuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="pappuraj" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/pappuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="pappuraj" height="30" width="40" /></a>
-<a href="https://fb.com/pappuraj.duet" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="pappuraj.duet" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/pappuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="pappuraj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/pappuraj" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="pappuraj" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/pappuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="pappuraj" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/pappuraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="pappuraj" height="30" width="40" /></a>
-</p>
+## 💻 Key Skills
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://hive.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg" alt="hive" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- **Languages**: Java, Dart, JavaScript, Python
+- **Frameworks**: Spring Boot, Flutter, ReactJS
+- **Databases**: MySQL, MongoDB, Oracle
+- **Tools**: IntelliJ, Android Studio, VS Code, Postman
+- **Version Control**: Git, GitHub, GitLab
+- **Cloud & Services**: Firebase, AWS, Docker
+- **Others**: Kafka, Redis, JWT, REST APIs, WebSockets, CI/CD
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=pappuraj&show_icons=true&locale=en&layout=compact" alt="pappuraj" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pappuraj&show_icons=true&locale=en" alt="pappuraj" /></p>
+## 🛠️ Technologies & Tools
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pappuraj&" alt="pappuraj" /></p>
+### Frontend Development
+- **Android Development** (Kotlin, Java)
+- **Cross-platform** with **Flutter** and **React**
+
+### Backend & Cloud
+- **Spring Boot**, **Firebase**, **AWS**, **Docker**
+- **RESTful APIs**, **Kafka**, **Redis**
+
+### Databases
+- **MySQL**, **MongoDB**, **SQLite**, **Room**, **Firestore**
+
+### Tools & Utilities
+- **Git**, **GitHub**, **GitLab**, **Bitbucket**
+- **CI/CD**: GitHub Actions, PM2
+- **Postman**, **Firebase Crashlytics**
+
+### Testing
+- **JUnit**, **Espresso**, **Mockito**
+
+---
+
+## 🌱 Currently Focused On
+
+- Mastering **Flutter** and **React** for cross-platform development
+- Scaling IoT backend using **Kafka** and **Redis**
+- Contributing to **open-source** and writing technical blogs
+
+---
+
+## 📘 Latest Projects
+
+### 🛠 **EzIoT**
+- **Tech Used**: Spring Boot, ReactJS, Firebase, ESP32
+- **Description**: A no-code IoT platform enabling users to onboard and control devices easily with real-time status tracking, pin diagram APIs, and digital/analog classification.
+
+### ✉️ **Loan Back**
+- **Tech Used**: Spring Boot, MySQL, Redis
+- **Description**: Financial recovery system to manage bulk loan accounts, assign RMs, track collection progress, and upload CBS files for analytics.
+
+### ⚡ **Metro Rail Ticketing System**
+- **Tech Used**: Java, Spring Boot, Oracle, Kafka
+- **Description**: Real-time NFC/QR/POS-based ticketing platform with fallback mechanisms and distributed messaging.
+
+---
+
+## 📍 Let's Connect!
+
+<div align="start">
+  <a href="https://www.linkedin.com/in/pappuraj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://web.facebook.com/pappuraj.bhottacharjee" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+  <a href="mailto:pappuraj.duet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
+  </a>
+  <a href="https://github.com/pappuraj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  </a>
+</div>
+
+Let's chat, collaborate, or build something impactful together! 😊
+
+---
+
+## ✨ Fun Facts
+
+- I enjoy automating real-life systems with IoT and backend APIs
+- I experiment with embedded AI models and microcontroller-based sensors
+- I often mentor juniors on backend systems, databases, and deployment
+
+---
+
+## 👨‍💻 My Work
+
+- **Software Engineer at Project 2morrow Software Ltd.**
+- Building production-grade fintech and IoT platforms
+- Collaborating with UI/UX teams, writing maintainable code
+- Reviewing code, fixing bugs, and deploying to production using Docker & PM2
+
+---
+
+## 📊 GitHub Stats
+
+<div align = "center">
+  <a href="https://github.com/pappuraj">
+    <img height="180em" src="http://github-readme-streak-stats.herokuapp.com/?user=pappuraj&theme=blueberry"/>
+  </a>
+
+  <a href="https://github.com/pappuraj">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pappuraj&hide=contribs,prs&count_private=true&show_icons=true&theme=blueberry"/>
+  </a>
+</div>
+
+---
+
+## 📊 GitHub Analytics
+
+<div align = "center">
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=pappuraj&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pappuraj&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pappuraj&theme=blueberry"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=pappuraj&theme=blueberry"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=pappuraj&theme=blueberry"/>
+</div>
+
+---
+
+## ⚖️ My Tech Stack
+
+<div align="center">
+  <img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" title="Spring" alt="Spring" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL" alt="MySQL" width="100" height="100"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="100" height="100"/>&nbsp;
+</div>
+
+---
+
+Thanks for visiting my profile! Feel free to connect and collaborate on cool projects. Happy coding! 💻
