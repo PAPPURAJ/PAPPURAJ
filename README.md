@@ -27,10 +27,12 @@
 ## 📚 Table of Contents
 - [🚀 About Me](#-about-me)
 - [🧾 Profile & Achievements](#-profile--achievements)
+- [🧭 Professional Experience](#-professional-experience)
 - [💻 Key Skills](#-key-skills)
 - [🛠️ Technologies & Tools](#️-technologies--tools)
 - [🌱 Currently Focused On](#-currently-focused-on)
 - [📘 Latest Projects](#-latest-projects)
+- [📑 Publications](#-publications)
 - [📍 Let's Connect!](#-lets-connect)
 - [✨ Fun Facts](#-fun-facts)
 - [👨‍💻 My Work](#-my-work)
@@ -86,16 +88,43 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
 - Email: [pappuraj.duet@gmail.com](mailto:pappuraj.duet@gmail.com)
 - Phone: +8801832755401
 
+---
+
+## 🧭 Professional Experience
+
+- **Software Engineer — Project 2morrow Software Ltd.**
+  - Building production-grade fintech and IoT platforms with Java/Spring Boot, Kafka, Redis, Docker, PM2.
+  - Responsibilities: API design, data modeling, code reviews, CI/CD, production deployments.
+
+- **Trainer & Programmer (Part‑time) — Roboment R&D Lab** (Feb 2019 – Present)
+  - Deliver workshops and training in embedded systems, IoT, robotics, and ML; develop custom devices and solutions for education and industry.
+
+- **Co‑Founder — BitTech BD** (Apr 2021 – Present)
+  - Led development of IoT and mobile solutions; architected backends and integrations.
+
+- **Flutter Developer (Intern) — BrainStation‑23** (Nov 2022 – Dec 2022)
+  - Built cross-platform features, contributed to app performance and UI quality.
+
+- **Android App Developer (Part‑time) — Roboment R&D Lab** (Apr 2021 – May 2021)
+  - Developed Android apps interfacing with sensors/embedded controllers.
+
+- **Android Developer (Part‑time) — Auamy Technology** (Apr 2019 – Apr 2020)
+  - Implemented Android features and REST integrations.
+
+- **Java Developer (Intern) — MHSoft** (Feb 2018 – Apr 2018)
+  - Worked on Java backends and database CRUD modules.
+
+---
 
 ## 💻 Key Skills
 
-- **Languages**: Java, Dart, JavaScript, Python
-- **Frameworks**: Spring Boot, Flutter, ReactJS
-- **Databases**: MySQL, MongoDB, Oracle
-- **Tools**: IntelliJ, Android Studio, VS Code, Postman
-- **Version Control**: Git, GitHub, GitLab
-- **Cloud & Services**: Firebase, AWS, Docker
-- **Others**: Kafka, Redis, JWT, REST APIs, WebSockets, CI/CD
+- **IoT & Embedded**: ESP32/ESP8266, Arduino, Raspberry Pi; MQTT/REST; real-time data; hardware–software integration
+- **Machine Learning & CV**: TensorFlow, scikit‑learn; detection, XAI/interpretability; time‑series; TinyML/on‑device inference
+- **Backend & APIs**: Java, Spring Boot, Microservices, Hibernate/JDBC, secure data management
+- **Mobile & Apps**: Android (Kotlin/Java), Flutter; companion apps for device control and monitoring
+- **Data & Cloud**: MySQL, MongoDB, SQLite, Firebase
+- **DevOps**: Docker, Linux, NGINX, Git, CI/CD; Kafka, Redis; Kubernetes (basics)
+- **Programming**: Java, Python, C/C++, Dart, SQL, Bash
 
 ---
 
@@ -140,10 +169,6 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
 - **Tech Used**: Spring Boot, MySQL, Redis
 - **Description**: Financial recovery system to manage bulk loan accounts, assign RMs, track collection progress, and upload CBS files for analytics.
 
-### ⚡ **Metro Rail Ticketing System**
-- **Tech Used**: Java, Spring Boot, Oracle, Kafka
-- **Description**: Real-time NFC/QR/POS-based ticketing platform with fallback mechanisms and distributed messaging.
-
 ---
 
 ## 📑 Publications
@@ -152,8 +177,39 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
 
 <!-- PUBLICATIONS:START -->
 <!-- This section is automatically updated by a GitHub Action. Do not edit manually. -->
-- Fetching latest publications...
+- Integrated Health-Care for Cripple and Abnormal Person in Home or Hospital — Mohammad Abdur Rouf, Pappuraj Bhottacharjee, Laboni Labonna, Md. Murad Hossain, Jarin Tasnim Tamanna — International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), 2023.
+- Design and Development of an Efficient IoT-based Egg Incubation System — Khawja Imran Masud, Pappuraj Bhottacharjee, Abu Saeid, Md. Golam Mostofa, Md. Obaidur Rahman — International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), 2023.
+- Developing an IoT-based Motorcycle Safety and Monitoring System: An Efficient Solution — Pappuraj Bhottacharjee, Abu Saeid, Mst. Raonik Jannat, Khawja Imran Masud — International Conference on Computer and Information Technology (ICCIT), 2024.
+- Interpretability in Hate Speech and Offensive Language Detection: Leveraging Transformers with Explainable AI — Mohammed Amran, Asmita Das Gupta, Rituparna Chowdhury, Md. Hamid Hosen, Pappuraj Bhottacharjee, Naima Tasnia — International Conference on Computer and Information Technology (ICCIT), 2024.
+- Egg Fertility Detection and Classification of an IoT-based Egg Incubation System using Transfer Learning: A CNN-based Approach — Khawja Imran Masud, Abu Saeid, Mst. Raonik Jannat, Pappuraj Bhottacharjee, Md. Obaidur Rahman, Md. Rafiul Hasan — [Under review].
+- Detection of Monkeypox Disease from Human Skin Images Using a Hybrid Deep Learning Model with Explainable AI (XAI) — Rituparna Chowdhury, Altaf Uddin, Arnab Saha, Pappuraj Bhottacharjee — [In progress].
+- Efficient Attention-Integrated YOLO Architecture for Smart Pothole Detection and Driver Alert on Embedded Platforms — Pappuraj Bhottacharjee, Momotaz Begum, Jia Uddin — [In progress].
 <!-- PUBLICATIONS:END -->
+
+---
+
+## 🎓 Research Statement
+
+My research focuses on building reliable, scalable intelligent systems at the intersection of embedded sensing, edge/cloud computing, and applied machine learning. I am particularly interested in:
+- Robust real-time systems for IoT/robotics
+- Data-driven optimization for cyber-physical systems
+- Efficient ML for resource-constrained devices (TinyML, on-device inference)
+- Trustworthy, secure, and privacy-aware sensing pipelines
+
+I enjoy translating theory into deployable systems with measurable impact, from device firmware and data engineering to backend services and user-facing tools.
+
+## 🔬 Research Interests
+- Machine Learning and AI (TinyML, on-device inference, time-series, NLP)
+- Robotics perception and control; ROS2 and real-time middleware
+- Computer Vision (detection, XAI, interpretability)
+- Embedded systems and IoT sensing/actuation at the edge
+- Distributed systems for real-time data (Kafka, streaming, low-latency design)
+- Trustworthy, secure, and privacy-aware sensing pipelines
+
+
+## 👥 Teaching & Mentoring
+- Mentored juniors in backend systems, databases, deployment (Docker/PM2)
+- Led code reviews, debugging sessions, and architecture discussions on production projects
 
 ---
 
@@ -163,14 +219,29 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
   <a href="https://www.linkedin.com/in/pappuraj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://web.facebook.com/pappuraj.bhottacharjee" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  <a href="https://github.com/pappuraj" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
   </a>
   <a href="mailto:pappuraj.duet@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge"/>
   </a>
-  <a href="https://github.com/pappuraj" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Badge"/>
+  <a href="https://orcid.org/0009-0002-0202-7891" target="_blank">
+    <img src="https://img.shields.io/badge/ORCID-0009--0002--0202--7891-a6ce39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID Badge"/>
+  </a>
+  <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Scholar-update%20link-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Badge"/>
+  </a>
+  <a href="https://www.researchgate.net/profile/YOUR_PROFILE" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-update%20link-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
+  </a>
+  <a href="https://ieeexplore.ieee.org/author/your_author_id" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-update%20link-0071c5?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore Badge"/>
+  </a>
+  <a href="https://www.semanticscholar.org/author/YOUR_ID" target="_blank">
+    <img src="https://img.shields.io/badge/Semantic%20Scholar-update%20link-333?style=for-the-badge&logo=semanticscholar&logoColor=white" alt="Semantic Scholar Badge"/>
+  </a>
+  <a href="https://web.facebook.com/pappuraj.bhottacharjee" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
 

@@ -2,26 +2,40 @@
 import os
 import re
 import sys
-import json
 from datetime import datetime
-from typing import List, Dict, Any
+from typing import List, Dict, Any, Optional
 
 import requests
 
 REPO_ROOT = os.path.abspath(os.path.join(os.path.dirname(__file__), "..", ".."))
 README_PATH = os.path.join(REPO_ROOT, "README.md")
 DEFAULT_ORCID = "0009-0002-0202-7891"
+DEFAULT_AUTHOR_NAME = "Pappuraj Bhottacharjee"
 ENV_ORCID = os.getenv("ORCID_ID", "").strip()
+ENV_AUTHOR_NAME = os.getenv("AUTHOR_NAME", "").strip()
 ORCID_ID = ENV_ORCID if ENV_ORCID else DEFAULT_ORCID
+AUTHOR_NAME = ENV_AUTHOR_NAME if ENV_AUTHOR_NAME else DEFAULT_AUTHOR_NAME
 MAX_ITEMS = int(os.getenv("MAX_PUBLICATIONS", "10"))
 
 OPENALEX_BASE = "https://api.openalex.org"
 HEADERS = {"User-Agent": "github.com/pappuraj README updater (contact: pappuraj.duet@gmail.com)"}
 
 
-def fetch_author_id_by_orcid(orcid_id: str) -> str | None:
+def fetch_author_id_by_orcid(orcid_id: str) -> Optional[str]:
     url = f"{OPENALEX_BASE}/authors"
     params = {"filter": f"orcid:{orcid_id}", "per_page": 1}
+    r = requests.get(url, params=params, headers=HEADERS, timeout=30)
+    r.raise_for_status()
+    data = r.json()
+    results = data.get("results", [])
+    if not results:
+        return None
+    return results[0]["id"]
+
+
+def fetch_author_id_by_name(name: str) -> Optional[str]:
+    url = f"{OPENALEX_BASE}/authors"
+    params = {"search": name, "per_page": 1}
     r = requests.get(url, params=params, headers=HEADERS, timeout=30)
     r.raise_for_status()
     data = r.json()
@@ -86,7 +100,7 @@ def format_publication_item(work: Dict[str, Any]) -> str:
 def build_markdown_list(works: List[Dict[str, Any]]) -> str:
     if not works:
         lines = [
-            "- No publications found yet for this ORCID in OpenAlex.",
+            "- No publications found yet (via OpenAlex).",
             "",
             f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_",
         ]
@@ -101,10 +115,9 @@ def build_markdown_list(works: List[Dict[str, Any]]) -> str:
 
 
 def replace_between_markers(content: str, new_block: str, start_marker: str, end_marker: str) -> str:
-    import re as _re
-    pattern = _re.compile(
-        rf"(<!--\s*{_re.escape(start_marker)}\s*-->)([\s\S]*?)(<!--\s*{_re.escape(end_marker)}\s*-->)",
-        _re.MULTILINE,
+    pattern = re.compile(
+        rf"(<!--\s*{re.escape(start_marker)}\s*-->)([\s\S]*?)(<!--\s*{re.escape(end_marker)}\s*-->)",
+        re.MULTILINE,
     )
     replacement = rf"\1\n{new_block}\n\3"
     if not pattern.search(content):
@@ -129,9 +142,12 @@ def main() -> int:
     try:
         author_id = fetch_author_id_by_orcid(ORCID_ID)
         if not author_id:
+            author_id = fetch_author_id_by_name(AUTHOR_NAME)
+
+        if not author_id:
             md_block = build_markdown_list([])
             write_status_to_readme(md_block)
-            print(f"No OpenAlex author found for ORCID {ORCID_ID}. Updated README with placeholder.")
+            print("No OpenAlex author found via ORCID or name. Updated placeholder.")
             return 0
 
         works = fetch_works_by_author(author_id, MAX_ITEMS)
