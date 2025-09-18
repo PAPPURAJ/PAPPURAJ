@@ -1,9 +1,42 @@
 <div align="center">
-  <h1> # Hi there, I'm Pappuraj Bhottacharjee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-</div>    
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+  <h1> Hi, I'm Pappuraj Bhottacharjee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
+  <p><strong>Software Engineer · Java · Spring Boot · Flutter · IoT</strong></p>
+  
+  <a href="https://pappuraj.com" target="_blank">
+    <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fpappuraj.com?w=1200" alt="Live Preview of pappuraj.com" width="100%" />
+  </a>
+  
+  <br/>
+  
+  <a href="https://pappuraj.com" target="_blank">
+    <img src="https://img.shields.io/badge/Website-pappuraj.com-0ea5e9?style=for-the-badge" alt="Website Badge"/>
+  </a>
+  <a href="mailto:pappuraj.duet@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-pappuraj.duet%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
+  </a>
+  <a href="https://www.linkedin.com/in/pappuraj/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Pappuraj-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://leetcode.com/pappuraj/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-pappuraj-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
 </div>
+
+---
+
+## 📚 Table of Contents
+- [🚀 About Me](#-about-me)
+- [🧾 Profile & Achievements](#-profile--achievements)
+- [💻 Key Skills](#-key-skills)
+- [🛠️ Technologies & Tools](#️-technologies--tools)
+- [🌱 Currently Focused On](#-currently-focused-on)
+- [📘 Latest Projects](#-latest-projects)
+- [📍 Let's Connect!](#-lets-connect)
+- [✨ Fun Facts](#-fun-facts)
+- [👨‍💻 My Work](#-my-work)
+- [📊 GitHub Stats](#-github-stats)
+- [📊 GitHub Analytics](#-github-analytics)
+- [⚖️ My Tech Stack](#-my-tech-stack)
 
 ---
 
@@ -18,6 +51,41 @@ I'm a **Software Engineer** with a passion for backend development, IoT systems,
 Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technical users, and working on financial applications like **Loan Back**. I love solving problems, building smart solutions, and continuously learning.
 
 ---
+
+## 🧾 Profile & Achievements
+
+- **Name**: Pappuraj Bhottacharjee
+- **Role**: Competitive Programmer, Software Engineer, Java Programmer
+- **Location**: Dhaka, Bangladesh
+- **Email**: [pappuraj.duet@gmail.com](mailto:pappuraj.duet@gmail.com)
+- **Phone**: +8801832755401
+
+### Education
+- **B.Sc in Computer Science and Engineering** — Dhaka University of Engineering & Technology (DUET), Gazipur (2019–2023)
+- **Diploma in Engineering (Computer Technology)** — Bangladesh Sweden Polytechnic Institute, Kaptai (2014–2018)
+
+### Experience
+- **BitTech BD** — Co‑Founder, Development Team (Apr 2021 – Present)
+- **BrainStation‑23** — Flutter Development, Internship (Nov 2022 – Dec 2022)
+- **Roboment R&D Lab** — Android App Developer, Part‑time (Apr 2021 – May 2021)
+- **Auamy Technology** — Android Developer, Part‑time (Apr 2019 – Apr 2020)
+- **MHSoft** — Java Development, Internship (Feb 2018 – Apr 2018)
+
+### Skills Snapshot
+- **Languages**: Java, C, C++, Dart, Arduino
+- **Problem Solving**: Dynamic Programming, Backtracking, Divide & Conquer, Math, Hash Table, DFS
+
+### Competitive Programming
+- **LeetCode**: [pappuraj](https://leetcode.com/pappuraj/) — Contest rating ~1446, 260+ solutions, 118 reputation
+- **Primary Languages on LC**: Java (325+), MySQL (12), C++ (6)
+
+### Projects
+- Explore projects and case studies: [pappuraj.com](https://pappuraj.com/)
+
+### Contact
+- Email: [pappuraj.duet@gmail.com](mailto:pappuraj.duet@gmail.com)
+- Phone: +8801832755401
+
 
 ## 💻 Key Skills
 
@@ -75,6 +143,17 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
 ### ⚡ **Metro Rail Ticketing System**
 - **Tech Used**: Java, Spring Boot, Oracle, Kafka
 - **Description**: Real-time NFC/QR/POS-based ticketing platform with fallback mechanisms and distributed messaging.
+
+---
+
+## 📑 Publications
+
+- ORCID: [0009-0002-0202-7891](https://orcid.org/0009-0002-0202-7891)
+
+<!-- PUBLICATIONS:START -->
+<!-- This section is automatically updated by a GitHub Action. Do not edit manually. -->
+- Fetching latest publications...
+<!-- PUBLICATIONS:END -->
 
 ---
 
