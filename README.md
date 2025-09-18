@@ -157,17 +157,7 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
 - Scaling IoT backend using **Kafka** and **Redis**
 - Contributing to **open-source** and writing technical blogs
 
----
 
-## 📘 Latest Projects
-
-### 🛠 **EzIoT**
-- **Tech Used**: Spring Boot, ReactJS, Firebase, ESP32
-- **Description**: A no-code IoT platform enabling users to onboard and control devices easily with real-time status tracking, pin diagram APIs, and digital/analog classification.
-
-### ✉️ **Loan Back**
-- **Tech Used**: Spring Boot, MySQL, Redis
-- **Description**: Financial recovery system to manage bulk loan accounts, assign RMs, track collection progress, and upload CBS files for analytics.
 
 ---
 
@@ -208,8 +198,8 @@ I enjoy translating theory into deployable systems with measurable impact, from 
 
 
 ## 👥 Teaching & Mentoring
-- Mentored juniors in backend systems, databases, deployment (Docker/PM2)
-- Led code reviews, debugging sessions, and architecture discussions on production projects
+- Mentored juniors in Robotics, Backend and IoT
+- Conducting online and onsite class in the Roboment
 
 ---
 

@@ -1,0 +1,159 @@
+                                      Pappuraj Bhottacharjee
+                              Researcher             |   Software Engineer L1            |       Quick Learner
+                          GLOBE www.pappuraj.com         Envelope pappuraj.duet@gmail.com       Envelope me@pappuraj.com
+
+                                 LINKEDIN   Github       �     �        �        GLOBE       Youtube
+
+RESEARCH INTEREST
+I am interested in software engineering, artificial intelligence, and IoT/embedded systems, with applications in healthcare,
+autonomous systems, and smart infrastructure. My goal is to develop scalable and intelligent software solutions that address
+real-world challenges through the integration of data-driven methods and system design.
+
+EDUCATION
+B.Sc in Computer Science & Engineering                                                                                      Mar 2019 – Jun 2023
+Dhaka University of Engineering & Technology (DUET), Gazipur                                                                     CGPA: 3.06/4.00
+
+Diploma in Computer Engineering                                                                                             Aug 2014 – Aug 2018
+Bangladesh Sweden Polytechnic Institute, Kaptai                                                                                  CGPA: 3.47/4.00
+
+
+RESEARCH EXPERIENCE
+Research Assistant
+HPRCC Lab, DUET, Gazipur
+Supervisor: Prof. Dr. Mohammad Abdur Rouf                                                                                  Sept 2021 — June 2023
+• UGC-funded project: IoT-based healthcare for disabled patients.
+• Developed device with voice/gesture control and cloud connectivity.
+• Co-authored conference paper (NCIM 2023).
+Research Assistant
+CSE Lab, DUET, Gazipur
+Supervisor: Mr. Khawja Imran Masud                                                                                         Jan 2022 — June 2023
+• UGC-funded research on IoT-based egg incubation and fertility detection.
+• Developed system for monitoring and classifying egg fertility using embedded devices and deep learning.
+• Co-authored conference paper (NCIM 2023).
+Research Collaborator
+Research Activator Lab                                                                                                        Jun 2024 — Present
+• Conducted research in AI, machine learning, and IoT.
+• Co-authored IEEE paper (ICCIT 2024) and ongoing journals on monkeypox detection and AI-based speed limit control using
+  Raspberry Pi and IoT.
+• Developed AI models and system architectures for research prototypes.
+Research Assistant
+MSiP Lab, Daejeon, South Korea
+Supervisor: Dr. Jia Uddin                                                                                                     Aug 2025 — Present
+• Contributing to multiple ongoing journal papers, focusing on machine learning, IoT, and embedded systems.
+• Developing an ML- and IoT-based embedded system for pothole detection.
+• Working on an offensive scene detection system for non-18+ content filtering using machine learning.
+
+
+PUBLICATIONS
+Integrated Health-Care for Cripple and Abnormal Person in Home or Hospital
+Mohammad Abdur Rouf, Pappuraj Bhottacharjee, Laboni Labonna, Md. Murad Hossain, Jarin Tasnim Tamanna
+2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), 2023.
+Design and Development of an Efficient IoT-based Egg Incubation System
+Khawja Imran Masud, Pappuraj Bhottacharjee, Abu Saeid, Md. Golam Mostofa, Md. Obaidur Rahman
+2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), 2023.
+Developing an IoT-based Motorcycle Safety and Monitoring System: An Efficient Solution
+Pappuraj Bhottacharjee, Abu Saeid, Mst. Raonik Jannat, Khawja Imran Masud
+International Conference on Computer and Information Technology (ICCIT), 2024.
+Interpretability in Hate Speech and Offensive Language Detection: Leveraging Transformers with Explainable AI
+Mohammed Amran, Asmita Das Gupta, Rituparna Chowdhury, Md. Hamid Hosen, Pappuraj Bhottacharjee, Naima Tasnia
+International Conference on Computer and Information Technology (ICCIT), 2024.
+Egg Fertility Detection and Classification of an IoT-based Egg Incubation System using Transfer Learning: A CNN-based Approach
+Khawja Imran Masud, Abu Saeid, Mst. Raonik Jannat, Pappuraj Bhottacharjee, Md. Obaidur Rahman, Md. Rafiul Hasan [Under review]
+Detection of Monkeypox Disease from Human Skin Images Using a Hybrid Deep Learning Model with Explainable AI (XAI)
+Rituparna Chowdhury, Altaf Uddin, Arnab Saha, Pappuraj Bhottacharjee [In progress]
+Efficient Attention-Integrated YOLO Architecture for Smart Pothole Detection and Driver Alert on Embedded Platforms
+Pappuraj Bhottacharjee, Momotaz Begum, Jia Uddin [In progress]
+
+
+WORK EXPERIENCE
+Software Engineer
+Project 2morrow Software Ltd., Banani, Dhaka                                                                      May 2023 — Present
+• Promoted from Associate to L1. Delivered backend, IoT, and fintech solutions; led teams and owned end-to-end modules.
+• Key Projects:
+  – GoFast BD (Lead): Designed and implemented backend and hardware for a smart metro ticketing system (QR & Visa card);
+    presented prototype solution to Dhaka Mass Transit Company Limited for potential city-wide deployment.
+  – BulkPro: Led backend development (60% contribution) for a CBS-integrated banking automation subsystem (CIF, CASA, loan
+    processing); deployed at Dhaka Bank Limited.
+  – ExamOn: Built backend and AI-driven proctoring for a platform supporting job applications, courses, and certification at scale.
+  – IoT Pro (Lead): Developed IoT solution for city-wide ATM and branch power monitoring and energy management for banks.
+• Tech Stack: Java, Spring Boot, Docker, Kafka, MySQL, Microservices, IoT, Machine learning, Kubernetes
+
+Trainer & Programmer (Part-time)
+Roboment R&D Lab, Gazipur (Hybrid)                                                                                Feb 2019 — Present
+• Delivered hands-on workshops and training in embedded systems, IoT, robotics, and machine learning for students and junior
+  engineers.
+• Developed and published Easier Study Lite , an Android app available on the Play Store, to support learning and productivity.
+• Integrated various sensors and microcontrollers for client-specific robotics and IoT projects.
+• Built custom devices and provided technical solutions for educational and industrial clients.
+• Tech Stack: Arduino, Raspberry Pi, ESP-01, ESP32-CAM, ESP8266, ESP32, Python, Android, Java, Electronics, IoT, ML, Sensors
+
+Software Engineering Trainee
+Brain Station 23, Dhaka                                                                                          Nov 2022 — Dec 2022
+• Developed mobile app features using Flutter and collaborated via GitHub.
+• Tech Stack: Flutter, REST API, Firebase, Git
+
+Industrial Trainee
+MHSofts, Gazipur, Dhaka                                                                                          Jan 2018 — Apr 2018
+• Hands-on training in Java application development and troubleshooting, as part of Diploma in Computer Technology.
+• Skillset: Java, Java Swing, Git
+
+
+AWARDS & HONORS
+2019     2nd runner-up of Bangladesh Smart City Expo 2019
+2022     Champion of Project Showcase in DUET Intra Programming Contest 2022
+2024     Expert Trainer for Workshop on IoT-Based Hardware & Software Simulation, Roboment R&D Lab
+2024     Champion at National Science and Technology Week 2024 Upazila Level Competition, Gazipur Sadar, Gazipur
+SKILL SETS
+• IoT, Embedded Systems & Robotics: NodeMCU, ESP32, Arduino, Raspberry Pi; sensor interfacing, real-time data, hardware-software
+  integration (MQTT, REST). Applied to robotics and home automation.
+• Machine Learning & AI: Data analysis, computer vision, sensor data; TensorFlow, scikit-learn. Research focus on embedded ML for
+  smart devices.
+• Electronics Design: Circuit design, sensor integration, microcontroller programming, hands-on prototyping for embedded systems.
+• Programming Languages: Python, C/C++, Java, Bash, Dart, SQL.
+• Mobile & Cross-Platform Development: Android (Native), Flutter for device control, companion apps, remote monitoring.
+• Backend & API Development: RESTful APIs, microservices, Spring Boot, Hibernate, JDBC, secure data management.
+• Databases & Cloud: MySQL, MongoDB, SQLite, and Firebase for device telemetry and data logging.
+• DevOps & Deployment: Docker, NGINX, Linux, Git, Kubernetes, CI/CD for automated deployments.
+• Development Tools: IntelliJ, VS Code, Android Studio, Postman, Jira, Arduino
+• Concepts & Methodologies: Embedded system design, edge computing, Agile, clean code.
+• Publishing Platforms: Google Play Store , AppBajar , AppBrain , APKPure
+
+PROBLEM SOLVING SKILL (SOLVED 500+)
+• Leetcode                         • Codeforces                 • HackerRank                       • Toph
+Solved: 340+                       Solved: 130+                 Solved: 20+                        Solved: 20+
+Maximum Rating: 1500               Maximum Rating: 918          Maximum Rating: 0                  Maximum Rating: 0
+
+
+
+VOLUNTEER AND LEADERSHIP EXPERIENCE
+
+• Vice President, DUET Innovation Society                        • Application and Project Section, DUET Computer Society
+• Trainer, Seminar on Android App Development                    • Additional Robotics Section, DUET Computer Society
+• Trainer, IoT Workshop at Research Lab Chattogram               • IT Secretary, Gungchill, DUET
+• Trainer, Workshop on IoT at Roboment R&D Lab, Gazipur          • Vice President, DUET Innovation Society
+
+
+COMPETITIONS
+
+• National High School Programming Contest 2015                  • NASA Space App Challenge 2021
+• Skill Competition 2015                                         • DUET CSE Fest 2021
+• Skill Competition 2016                                         • Learning and Earning Fair 2017, Rangamati, Chittagong Hill
+• MIST Robolution-19                                               Tracts
+• Bangladesh Smart City Expo 2019                                • National Science and Technology Week 2024 Upazila Level
+• Digital Device and Innovation Expo 2019                          Competition
+• Hult Prize 2020
+
+REFERENCES
+
+Dr. Mohammad Abdur Rouf                                          Sumaya Kazary, M.Sc. in Eng.
+Professor, Department of Computer Science and Engineering        Assistant Professor, Department of Computer Science and
+Dhaka University of Engineering & Technology (DUET), Gazipur     Engineering
+Email: marouf.cse@duet.ac.bd                                     Dhaka University of Engineering & Technology (DUET), Gazipur
+Office: +8802-9274034-53 Ext 3213                                Email: sumaya@duet.ac.bd
+                                                                 Mobile: +8801712272961
+Md. Obaidur Rahman
+Professor, Department of Computer Science and Engineering        Dr. Jia Uddin
+Dhaka University of Engineering & Technology (DUET), Gazipur     Associate Professor, AI and Big Data Department
+Email: orahman@duet.ac.bd                                        Endicott College, Woosong University, Daejeon, South Korea
+Mobile: +8801930706863                                           Email: jia.uddin@wsu.ac.kr
+
