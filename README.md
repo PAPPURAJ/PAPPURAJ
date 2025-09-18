@@ -1,6 +1,6 @@
 <div align="center">
   <h1> Hi, I'm Pappuraj Bhottacharjee <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/> </h1>
-  <p><strong>Software Engineer · Java · Spring Boot · Flutter · IoT</strong></p>
+  <p><strong>Researcher | Software Engineer | Quick Learner</strong></p>
   
   <a href="https://pappuraj.com" target="_blank">
     <img src="https://s0.wp.com/mshots/v1/https%3A%2F%2Fpappuraj.com?w=1200" alt="Live Preview of pappuraj.com" width="100%" />
@@ -14,11 +14,23 @@
   <a href="mailto:pappuraj.duet@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-pappuraj.duet%40gmail.com-ef4444?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"/>
   </a>
+  <a href="mailto:me@pappuraj.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-me%40pappuraj.com-10b981?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge (me@pappuraj.com)"/>
+  </a>
   <a href="https://www.linkedin.com/in/pappuraj/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Pappuraj-0a66c2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://leetcode.com/pappuraj/" target="_blank">
     <img src="https://img.shields.io/badge/LeetCode-pappuraj-f59e0b?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode Badge"/>
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=pappuraj&style=for-the-badge&color=0ea5e9" alt="Profile Views"/>
+  </a>
+  <a href="https://hits.seeyoufarm.com" target="_blank">
+    <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fpappuraj&count_bg=%230EA5E9&title_bg=%23000000&icon=&icon_color=%23E7E7E7&title=Profile+Hits&edge_flat=false" alt="Profile Hits (seeyoufarm)"/>
+  </a>
+  <a href="https://hits.sh/github.com/pappuraj/" target="_blank">
+    <img src="https://hits.sh/github.com/pappuraj.svg?view=today-total&style=for-the-badge&label=Today%20%2F%20Total" alt="Today / Total hits (hits.sh)"/>
   </a>
 </div>
 
@@ -85,7 +97,7 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
 - Explore projects and case studies: [pappuraj.com](https://pappuraj.com/)
 
 ### Contact
-- Email: [pappuraj.duet@gmail.com](mailto:pappuraj.duet@gmail.com)
+- Email: [pappuraj.duet@gmail.com](mailto:pappuraj.duet@gmail.com), [me@pappuraj.com](mailto:me@pappuraj.com)
 - Phone: +8801832755401
 
 ---
@@ -161,6 +173,14 @@ Currently, I'm focused on developing **EzIoT**, an IoT platform for non-technica
 
 ---
 
+## 🧪 Research Labs & Collaborations
+- HPRCC Lab, DUET, Gazipur — Research Assistant (UGC-funded IoT healthcare project)
+- CSE Lab, DUET, Gazipur — Research Assistant (IoT egg incubation & DL-based fertility detection)
+- Research Activator Lab — Research Collaborator (AI, ML, IoT; IEEE ICCIT 2024 co-authorship)
+- MSiP Lab, Daejeon, South Korea — Research Assistant (ML/IoT embedded systems; ongoing journals)
+
+---
+
 ## 📑 Publications
 
 - ORCID: [0009-0002-0202-7891](https://orcid.org/0009-0002-0202-7891)
@@ -221,16 +241,19 @@ I enjoy translating theory into deployable systems with measurable impact, from 
   <a href="https://scholar.google.com/citations?user=YOUR_SCHOLAR_ID" target="_blank">
     <img src="https://img.shields.io/badge/Google%20Scholar-update%20link-4285F4?style=for-the-badge&logo=googlescholar&logoColor=white" alt="Google Scholar Badge"/>
   </a>
-  <a href="https://www.researchgate.net/profile/YOUR_PROFILE" target="_blank">
-    <img src="https://img.shields.io/badge/ResearchGate-update%20link-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
+  <a href="https://www.researchgate.net/profile/Pappuraj-Bhottacharjee" target="_blank">
+    <img src="https://img.shields.io/badge/ResearchGate-Profile-00CCBB?style=for-the-badge&logo=researchgate&logoColor=white" alt="ResearchGate Badge"/>
   </a>
-  <a href="https://ieeexplore.ieee.org/author/your_author_id" target="_blank">
-    <img src="https://img.shields.io/badge/IEEE%20Xplore-update%20link-0071c5?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore Badge"/>
+  <a href="https://ieeexplore.ieee.org/author/37089951626" target="_blank">
+    <img src="https://img.shields.io/badge/IEEE%20Xplore-Author-0071c5?style=for-the-badge&logo=ieee&logoColor=white" alt="IEEE Xplore Badge"/>
   </a>
-  <a href="https://www.semanticscholar.org/author/YOUR_ID" target="_blank">
-    <img src="https://img.shields.io/badge/Semantic%20Scholar-update%20link-333?style=for-the-badge&logo=semanticscholar&logoColor=white" alt="Semantic Scholar Badge"/>
+  <a href="https://play.google.com/store/apps/dev?id=8761614094262930672" target="_blank">
+    <img src="https://img.shields.io/badge/Google%20Play-Developer-34A853?style=for-the-badge&logo=googleplay&logoColor=white" alt="Google Play Developer"/>
   </a>
-  <a href="https://web.facebook.com/pappuraj.bhottacharjee" target="_blank">
+  <a href="https://www.youtube.com/@pappuraj" target="_blank">
+    <img src="https://img.shields.io/badge/YouTube-Channel-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube Channel"/>
+  </a>
+  <a href="https://fb.com/pappuraj.duet" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
 </div>
@@ -253,6 +276,18 @@ Let's chat, collaborate, or build something impactful together! 😊
 - Building production-grade fintech and IoT platforms
 - Collaborating with UI/UX teams, writing maintainable code
 - Reviewing code, fixing bugs, and deploying to production using Docker & PM2
+
+---
+
+## ▶️ YouTube Stats
+
+Channel: [@pappuraj](https://www.youtube.com/@pappuraj)
+
+<!-- YT_STATS:START -->
+Subscribers: fetching...
+Views: fetching...
+Videos: fetching...
+<!-- YT_STATS:END -->
 
 ---
 
