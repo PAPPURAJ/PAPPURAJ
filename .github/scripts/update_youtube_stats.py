@@ -3,7 +3,7 @@ import os
 import re
 import sys
 from typing import Tuple
-from datetime import datetime
+from datetime import datetime, timezone
 
 import requests
 
@@ -12,16 +12,29 @@ README_PATH = os.path.join(REPO_ROOT, "README.md")
 
 YOUTUBE_API_KEY = os.getenv("YOUTUBE_API_KEY", "").strip()
 CHANNEL_HANDLE = os.getenv("YOUTUBE_CHANNEL_HANDLE", "@pappuraj").strip()
+CHANNEL_ID_ENV = os.getenv("YOUTUBE_CHANNEL_ID", "").strip()
 
 HEADERS = {"User-Agent": "github.com/pappuraj README updater (YT stats)"}
 
 
-def resolve_channel_id(handle: str) -> str:
-    # Use YouTube Data API search to resolve handle to channelId
+def _now_utc_str() -> str:
+    return datetime.now(timezone.utc).strftime("%Y-%m-%d %H:%M UTC")
+
+
+def resolve_channel_id_from_search(handle: str) -> str:
+    """
+    Resolve a YouTube channel ID from a handle (e.g., '@pappuraj') using the Search API.
+    NOTE: In the Search API, the channel ID is in items[0]['id']['channelId'], not in snippet.
+    """
+    if handle.startswith("@"):
+        query = handle
+    else:
+        query = f"@{handle}"
+
     url = "https://www.googleapis.com/youtube/v3/search"
     params = {
-        "part": "snippet",
-        "q": handle,
+        "part": "id",
+        "q": query,
         "type": "channel",
         "maxResults": 1,
         "key": YOUTUBE_API_KEY,
@@ -30,9 +43,9 @@ def resolve_channel_id(handle: str) -> str:
     r.raise_for_status()
     data = r.json()
     items = data.get("items", [])
-    if not items:
-        raise RuntimeError("Channel not found from handle search")
-    return items[0]["snippet"]["channelId"]
+    if not items or "id" not in items[0] or "channelId" not in items[0]["id"]:
+        raise RuntimeError(f"Channel not found from handle search for '{handle}'")
+    return items[0]["id"]["channelId"]
 
 
 def fetch_channel_stats(channel_id: str) -> Tuple[int, int, int]:
@@ -47,7 +60,7 @@ def fetch_channel_stats(channel_id: str) -> Tuple[int, int, int]:
     data = r.json()
     items = data.get("items", [])
     if not items:
-        raise RuntimeError("No statistics found for channel")
+        raise RuntimeError("No statistics found for channel (check channel ID and API quota).")
     stats = items[0]["statistics"]
     subs = int(stats.get("subscriberCount", 0))
     views = int(stats.get("viewCount", 0))
@@ -70,17 +83,25 @@ def main() -> int:
     try:
         if not YOUTUBE_API_KEY:
             raise RuntimeError("YOUTUBE_API_KEY is not set")
-        channel_id = resolve_channel_id(CHANNEL_HANDLE)
+
+        # Prefer explicit channel ID if provided; otherwise resolve from handle.
+        if CHANNEL_ID_ENV:
+            channel_id = CHANNEL_ID_ENV
+        else:
+            channel_id = resolve_channel_id_from_search(CHANNEL_HANDLE)
+
         subs, views, videos = fetch_channel_stats(channel_id)
         block = (
             f"Subscribers: {subs:,}\n"
             f"Views: {views:,}\n"
             f"Videos: {videos:,}\n\n"
-            f"_Last updated: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_"
+            f"_Last updated: {_now_utc_str()}_"
         )
+
         with open(README_PATH, "r", encoding="utf-8") as f:
             readme = f.read()
         updated = replace_between_markers(readme, block, "YT_STATS:START", "YT_STATS:END")
+
         if updated != readme:
             with open(README_PATH, "w", encoding="utf-8") as f:
                 f.write(updated)
@@ -88,13 +109,15 @@ def main() -> int:
         else:
             print("No changes to README.")
         return 0
+
     except Exception as e:
+        # Best-effort fallback: write attempt timestamp so your README still reflects recency.
         try:
             with open(README_PATH, "r", encoding="utf-8") as f:
                 readme = f.read()
             fallback = (
                 "Subscribers: n/a\nViews: n/a\nVideos: n/a\n\n"
-                f"_Last attempted: {datetime.utcnow().strftime('%Y-%m-%d %H:%M UTC')}_"
+                f"_Last attempted: {_now_utc_str()}_"
             )
             updated = replace_between_markers(readme, fallback, "YT_STATS:START", "YT_STATS:END")
             with open(README_PATH, "w", encoding="utf-8") as f:
